@@ -1,6 +1,6 @@
 
 /**
- * A sub class of Ticket for walk up tickets
+ * A sub class of Ticket for walk up tickets rhys is agy
  *
  * @author Jackson Ellison, Rhys Plassmann
  * @version 3/8/19
